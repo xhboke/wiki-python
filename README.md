@@ -1,4 +1,6 @@
-# wiki-python
-使用python来爬取维基百科的历史上今天数据
-# 维基百科
-维基百科是维基媒体基金会运营的一个多语言的网络百科全书，并以创建和维护作为开放式协同合作项目，特点是自由内容、自由编辑、自由著作权[2][3]。目前是全球网络上最大且最受大众欢迎的参考工具书，名列全球十大最受欢迎的网站[7]。维基百科目前由非营利组织维基媒体基金会负责营运[8][9][10]。Wikipedia是混成词，分别取自于网站核心技术“Wiki”以及英文中百科全书之意的“encyclopedia”。（来源自维基百科）
+# Result
+
+单线程用时：1229s
+附数据：https://pan.baidu.com/s/1H-xdp3se7WyJw8WvK_IVuA 提取码: kykf
+
+![](https://cdn.jsdelivr.net/gh/xhboke/wiki-python/%E6%8D%95%E8%8E%B7.PNG)
